@@ -1,3 +1,4 @@
+//Original content from owner before my exercise:
 Crimson
 Orange
 Blue
@@ -11,3 +12,21 @@ Fuchsia
 Purple
 Brown
 Red
+//////////////////////////
+
+//My Lab exercise: Could not use a clean class.txt because of 404 error, don't know original contents.
+// Could not use Lab Terminal because when trying the command: "vim class.txt" received message: bash: vim: command not found (Do not know why). So, I did it here.
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
+//////////////////////////
